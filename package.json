@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/randomFrisby/randomFrisby.github.io/issues"
   },
-  "homepage": "https://github.com/randomFrisby/randomFrisby.github.io#readme"
+  "homepage": "https://github.com/randomFrisby/randomFrisby.github.io#readme",
+  "dependencies": {
+    "github-calendar": "^2.3.1"
+  }
 }
