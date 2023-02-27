@@ -34,15 +34,16 @@ $(document).ready(function () {
     });
   
     // typing text animation script
-    var typed = new Typed(".typing", {
-      strings: ["Backend Developer", "Reader", "Football Nerd"],
-      typeSpeed: 100,
-      backSpeed: 60,
-      loop: true,
-    });
+    
+    // var typed = new Typed(".typing", {
+    //   strings: ["Backend Developer", "Reader", "Football Nerd"],
+    //   typeSpeed: 100,
+    //   backSpeed: 60,
+    //   loop: true,
+    // });
   
     var typed = new Typed(".typing-2", {
-      strings: ["Backend Developer", "Reader", "Football Nerd"],
+      strings: ["Reader", "Football Nerd", "Backend Developer", "Formula One fanatic"],
       typeSpeed: 100,
       backSpeed: 60,
       loop: true,
