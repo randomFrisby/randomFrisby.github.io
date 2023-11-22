@@ -627,7 +627,7 @@ footer {
     }
     .skills .skills-content .column {
       grid-template-columns: repeat(2, 1fr);
-      margin-bottom: 350px;
+      margin-bottom: 550px;
      }
      .tools-content .column {
       grid-template-columns: repeat(2, 1fr);
