@@ -443,6 +443,20 @@
 
   /* github stats */
 
+  .dailog {
+    border: 2px solid red;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+
+  .dailog img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
 
   .github text.ContributionCalendar-label {
     fill: #111;
@@ -615,9 +629,11 @@ footer {
     .skills .skills-content .column {
       margin-bottom: 290px;
       grid-template-columns: repeat(2, 1fr);
+      margin-bottom: 350px;
      }
      .tools-content .column {
       grid-template-columns: repeat(2, 1fr);
+      margin-bottom: 350px;
      }
   }
   
@@ -638,12 +654,12 @@ footer {
 
     @media (max-width: 300px) {
       .skills .skills-content .column {
-        margin-bottom: 1050px;
+        margin-bottom: 1350px;
         grid-template-columns: repeat(1, 1fr);
        }
        .tools-content .column {
         grid-template-columns: repeat(1, 1fr);
-        margin-bottom: 270px;
+        margin-bottom: 550px;
        }
     }
     
