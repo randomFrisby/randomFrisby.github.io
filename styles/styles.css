@@ -626,7 +626,6 @@ footer {
       font-size: 20px;
     }
     .skills .skills-content .column {
-      margin-bottom: 290px;
       grid-template-columns: repeat(2, 1fr);
       margin-bottom: 350px;
      }
