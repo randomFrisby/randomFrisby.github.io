@@ -43,7 +43,7 @@ $(document).ready(function () {
     // });
   
     var typed = new Typed(".typing-2", {
-      strings: ["Reader", "Football Nerd", "Backend Developer", "Formula One fanatic"],
+      strings: ["Reader📚", "Football Nerd⚽", "Backend Engineer", "Formula One fanatic🏎️"],
       typeSpeed: 100,
       backSpeed: 60,
       loop: true,
