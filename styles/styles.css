@@ -187,15 +187,16 @@
     margin-right: 0;
   }
   .home .home-content .text-1 {
-    font-size: 60px;
+    font-size: 50px;
+    padding-bottom: 3rem;
   }
   .home .home-content .text-2 {
-    font-size: 95px;
+    font-size: 75px;
     font-weight: 900;
     margin-left: -3px;
   }
   .home .home-content .text-3 {
-    font-size: 60px;
+    font-size: 40px;
     margin: 5px 0;
   }
   .home .home-content .text-3 span {
