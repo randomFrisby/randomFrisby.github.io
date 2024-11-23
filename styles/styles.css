@@ -188,12 +188,15 @@
   }
   .home .home-content .text-1 {
     font-size: 50px;
-    padding-bottom: 3rem;
+    /* padding-bottom: 1rem; */
   }
   .home .home-content .text-2 {
     font-size: 75px;
     font-weight: 900;
     margin-left: -3px;
+  }
+  .home .home-content .text-2 span {
+    color: #F96666;
   }
   .home .home-content .text-3 {
     font-size: 40px;
